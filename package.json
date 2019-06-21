@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vinamraj/mernai.git"
+    "url": "https://github.com/vinamraj/social-network-mern.git"
   },
-  "homepage": "https://github.com/vinamraj/mernai",
+  "homepage": "https://github.com/vinamraj/social-network-mern",
   "main": "./dist/server.generated.js",
   "scripts": {
     "development": "nodemon",
